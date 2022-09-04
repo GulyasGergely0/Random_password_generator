@@ -26,7 +26,7 @@ random.shuffle(password)
 a=''.join(password)
 print(a)
 
-
+input("Press enter to exit")
 
 
 
